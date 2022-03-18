@@ -1,0 +1,16 @@
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.exe
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.deps.json
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.runtimeconfig.json
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.runtimeconfig.dev.json
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.dll
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\ref\MyLinqProject.dll
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\bin\Debug\net5.0\MyLinqProject.pdb
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.csprojAssemblyReference.cache
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.AssemblyInfoInputs.cache
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.AssemblyInfo.cs
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.csproj.CoreCompileInputs.cache
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.dll
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\ref\MyLinqProject.dll
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.pdb
+C:\Users\99559\Desktop\Programming Lessons\MyLinq\MyLinq\obj\Debug\net5.0\MyLinqProject.genruntimeconfig.cache
